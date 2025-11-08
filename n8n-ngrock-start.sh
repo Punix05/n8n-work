@@ -9,7 +9,7 @@ GRAY='\033[0;37m'
 NC='\033[0m'
 
 # 作業ディレクトリ
-COMPOSE_DIR="/home/taise/n8n_work/n8n-compose/n8n-compose"
+COMPOSE_DIR="/home/user/n8n-work/n8n-compose/n8n-compose"
 
 echo -e "${GREEN}=== n8n Docker Compose + ngrok 自動起動 ===${NC}\n"
 
